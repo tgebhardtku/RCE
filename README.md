@@ -1,10 +1,5 @@
 # RCE
-Radiative-Convective Equilibrium
+Radiative-Convective Equilibrium - Two Layer
 
-The goal here will be to use the "master" branch to have the base case
-for all of our techniques (i.e. DA codes, continuation codes, etc).
-
-Then all of our separate projects that may use it can be created as "branches"
-off of the master, that are named. This will allow us to have codes with the
-same base (say, for the DA codes), but modify them to satisfy the requirements
-of the specific problem.
+This branch is for the two layer model developed by Emanuel. The goal
+is to use the continuation codes to confirm the bifurcation diagram.
